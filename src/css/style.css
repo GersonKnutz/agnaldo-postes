@@ -258,10 +258,6 @@ body {
   border-radius: 10px;
 }
 
-.service a:hover img {
-  opacity: 0.8;
-}
-
 .service-image {
   position: relative;
   width: 100%;
