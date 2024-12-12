@@ -92,6 +92,9 @@
 }
 
 @media(max-width: 940px){
+    .header .logo h1 {
+        font-size: 25px;
+    }
     .header .menu{
         display: block;
     }
