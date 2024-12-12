@@ -44,10 +44,6 @@ body {
   text-transform: uppercase;
 }
 
-.header a:hover h1{
-  color: var( --primary-color);
-}
-
 .menu {
   display: flex;
   align-items: center;
